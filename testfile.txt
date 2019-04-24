@@ -8,4 +8,5 @@ maga!!!
 
 
 branch the file here
-conflict here
+another conflict here
+no conflict
