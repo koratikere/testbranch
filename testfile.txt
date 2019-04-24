@@ -10,3 +10,5 @@ maga!!!
 branch the file here
 another conflict here
 no conflict
+
+new branch changes
